@@ -1,3 +1,9 @@
+## Development has Moved
+
+https://github.com/Gameknight963/PrettyClear/
+
+This repo won't be updated anymore
+
 ## PrettyClear
 modified version of [Translucence](https://github.com/CapnKitten/Translucence) that looks less gamery
 
